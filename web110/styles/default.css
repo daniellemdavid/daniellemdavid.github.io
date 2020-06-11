@@ -1,9 +1,50 @@
 body
 {
   /* you better change this stuff */
-  margin: 300px;
-  font-family: papyrus;
-  color: red;
-  background-color: green;
-  font-size: 300%;
+  margin: 50px;
+  font-family: decorative;
+  color: #616163;
+  background-color: #CC9900;
+  font-size: 150%;
+}
+
+header{
+font-size:200%;
+}
+
+h2{
+text-align: center;
+}
+
+figure{
+text-align: center;
+font-size:75%;
+}
+
+footer{
+text-align: center;
+}
+
+a:link {
+  color:#73763D;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #616163;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#C0C0C0;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color:#73763D;
+  background-color: transparent;
+  text-decoration: underline;
 }

@@ -6,11 +6,15 @@ body{
   font-size: 150%;
 
 }
-header{
-text-align:"center";
+
+h1{
+text-align:center;
+}
+
+h4{
+text-align:center;
 }
 nav{
-text-align:"center";
 }
 main{
 }
