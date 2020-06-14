@@ -5,11 +5,10 @@ body
   font-family: decorative;
   color: #616163;
   background-color: #CC9900;
-  font-size: 150%;
-}
+  font-size: 50%;}
 
 header{
-font-size:200%;
+font-size: 100%;
 }
 
 h2{
@@ -24,21 +23,24 @@ font-size:75%;
 footer{
 text-align: center;
 }
+a{
+text-decoration: underline;
+}
 
 a:link {
   color:#73763D;
-  background-color: transparent;
-  text-decoration: none;
+  
+  text-decoration: underline;
 }
 
 a:visited {
-  color: #616163;
-  background-color: transparent;
-  text-decoration: none;
+  color: #73763D;
+  
+  text-decoration: underline;
 }
 
 a:hover {
-  color:#C0C0C0;
+  color:#73763D;
   background-color: transparent;
   text-decoration: underline;
 }
